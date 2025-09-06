@@ -15,13 +15,13 @@ A fun and simple **Card War** game built with **Swift**, where you battle agains
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
 Here’s a glimpse of the game:  
 
 
 <p align="center">
-  <img src="screenshots/sc1" width="250" />
+  <img src="screenshot/sc1" width="250" />
 </p>
 
 
