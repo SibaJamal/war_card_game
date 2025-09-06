@@ -21,8 +21,8 @@ Here’s a glimpse of the game:
 
 
 <p align="center">
-  <img src="screenshots/Screenshot 2025-09-01 at 11.42.18 PM.png" width="250" />
-  <img src="screenshots/Screenshot 2025-09-01 at 11.42.33 PM.png" width="250" />
+  <img src="screenshots/Screenshot2025-09-01at11.42.18 PM.png" width="250" />
+  <img src="screenshots/Screenshot2025-09-01at11.42.33 PM.png" width="250" />
 </p>
 
 
