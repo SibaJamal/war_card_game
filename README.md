@@ -19,12 +19,12 @@ A fun and simple **Card War** game built with **Swift**, where you battle agains
 
 Here’s a glimpse of the game:  
 
-**Game Start:**  
-(screenshots/Screenshot 2025-09-01 at 11.42.18 PM.png)  
-(screenshots/Screenshot 2025-09-01 at 11.42.33 PM.png)  
 
-  
- 
+<p align="center">
+  <img src="screenshots/Screenshot 2025-09-01 at 11.42.18 PM.png" width="250" />
+  <img src="screenshots/Screenshot 2025-09-01 at 11.42.33 PM.png" width="250" />
+</p>
+
 
 ## ⚙️ Features
 
