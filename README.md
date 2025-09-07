@@ -2,7 +2,7 @@
 
 ![Swift](https://img.shields.io/badge/Language-Swift-orange) ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
 
-A fun and simple **Card War** game built with **Swift**, where you battle against the computer by drawing cards. The higher card wins the round —may the luckiest player win! 🎲✨  
+🃏♣️♦️♥️♠️A fun and simple **Card War** game built with **Swift**, where you battle against the computer by drawing cards. The higher card wins the round —may the luckiest player win! 🎲✨  
 
 ---
 
