@@ -33,6 +33,13 @@ Here’s a glimpse of the game:
 - ✅ Clean and readable Swift code  
 - ✅ SwiftUI interface
 
+## ✨ Future Improvements
+🎮 Online multiplayer mode
+✨ Animated card flips and battles
+🔊 Sound effects for card flips and wins
+
+
+
 
 
 
